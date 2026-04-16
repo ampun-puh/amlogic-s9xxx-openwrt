@@ -530,6 +530,9 @@ CONFIG_BUSYBOX_DEFAULT_FALLOCATE=y
 # end of 4.
 
 #
-# 5. Protocols
+# 5. Tambahan
 CONFIG_PACKAGE_luci-proto-modemmanager=y
 CONFIG_PACKAGE_modemmanager=y
+CONFIG_PACKAGE_kmod-usb-net-cdc-mbim=y
+CONFIG_PACKAGE_modemmanager-rpcd=y
+CONFIG_PACKAGE_adguardhome=y
